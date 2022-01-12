@@ -20,3 +20,4 @@ Follow the installation instructions found [here](https://chocolatey.org/install
 5. Type `cd ~/dev/windows-setup-script`
 6. Type `choco install packages.config`
 7. Everything will be installed properly 🤞
+8. You will be required to restart you computer for WSL2 to be installed fully.
