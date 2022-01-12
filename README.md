@@ -9,7 +9,7 @@
   - .NET Framework 4+ (the installation will attempt to install .NET 4.0 if you do not have it installed)
 
 ### Instructions
-Follow the installation instructions found here: [https://chocolatey.org/install]
+Follow the installation instructions found [here](https://chocolatey.org/install).
 
 
 ## Install packages using Chocolatey
