@@ -17,7 +17,7 @@ Follow the installation instructions found [here](https://chocolatey.org/install
 2. Create a folder in your home directory (your user folder) and name it `dev`
 3. Unpack the ZIP in the `dev` folder
 4. Open your PowerShell terminal as an admin (you can search for PowerShell in the start menu and click on the 'Run as Administrator' option)
-5. Type `cd ~/dev/windows-setup-script-master`
+5. Type `cd ~/dev/windows-setup-script`
 6. Type `choco install packages.config`
 7. Everything will be installed properly 🤞
 8. You will be required to restart you computer for WSL2 to be installed fully
